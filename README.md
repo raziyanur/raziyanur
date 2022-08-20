@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Raziyanur Thank You for taking the time to view my GitHub Profile 
-- 👀 I’m currently working on Automation Test Projects 
-- 🌱 I’m currently learning Python...
+- 👀 I’m currently working as SDET 
 - 💞️ I’m looking to collaborate on any project
 - 📫 raziyanur04@gmail.com
 
