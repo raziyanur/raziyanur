@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Raziyanur KANATBEK Thank You for taking the time to view my GitHub Profile 
 - 👀  
 - 💞️ 
-- 📫 raziyanur04@gmail.com
+- 📫 
 
 
               
